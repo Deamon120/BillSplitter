@@ -3,17 +3,17 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/25495/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Tue, 31 Dec 2024 12:26:10 UTC"
+update_date: "Wed, 01 Jan 2025 15:10:40 UTC"
 stages:
   - id: 901
     step: 12898
     is_completed: true
   - id: 902
     step: 12899
-    is_completed: false
+    is_completed: true
   - id: 903
     step: 12900
-    is_completed: false
+    is_completed: true
   - id: 904
     step: 12901
     is_completed: false
@@ -23,8 +23,6 @@ topics:
       theory_id: 47352
     - title: Multi-line programs
       theory_id: 47555
-    - title: "PEP 8: Coding style guide"
-      theory_id: 47499
     - title: Taking user's input
       theory_id: 47680
     - title: Program with numbers
@@ -47,8 +45,6 @@ topics:
       theory_id: 47536
     - title: "Integer arithmetic: basic operations"
       theory_id: 47564
-    - title: "Integer arithmetic: special operations"
-      theory_id: 47917
     - title: Invoking functions
       theory_id: 5891
     - title: Boolean type and operations. True and false
